@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "7b1b2bde157ec0ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0a08971e1fd8d53",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "linux/ubuntu/packages.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67a8ca195382501f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0952ee313c6a2a44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1d876b9cfc68b0e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b876edcb96ae204e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 202
+  },
+  "right": {
+    "id": "10f2b444e30ae142",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9897963420ce745",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55368d9e1e2d4880",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "linux/ubuntu/packages.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f0a08971e1fd8d53",
+  "lastOpenFiles": [
+    "linux/ubuntu/packages.md",
+    "programming/embedded/questions.md",
+    "programming/embedded/programming.md",
+    "programming/embedded/overview.md",
+    "programming/embedded/concepts.md",
+    "programming/embedded/hardware.md",
+    "programming/machine_learning/computer_vision.md",
+    "programming/machine_learning/concepts.md",
+    "programming/machine_learning/overview.md",
+    "programming/interview_prep/qualcomm_fw/algo_c.md"
+  ]
+}
