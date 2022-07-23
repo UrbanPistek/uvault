@@ -58,6 +58,10 @@ For python:
 pip3 install jedi
 ```
 
+Select python interperter:
+`:CocCommand`
+`python.setInterperter`
+
 #### Airline Plugin
 Install powerline fonts
 ```

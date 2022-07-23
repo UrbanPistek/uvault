@@ -54,6 +54,8 @@ y - yank highlighted
 d - delete highlighted 
 p - paste highlighted
 
+(shift + .) - tab all selected lines
+
 ### Visual Mode
 Highlight as you navigate (highlight words)
 
@@ -79,5 +81,10 @@ command mode - :
 
 `:e <path to file>` - find and open file
 `:bd` - close currently open file
- 
+
+`:%s/foo/bar/g`
+Find each occurrence of 'foo' (in all lines), and replace it with 'bar'.
+`:%s/foo/bar/gc`
+Change each 'foo' to 'bar', but ask for confirmation first.
+
 ### Notes
