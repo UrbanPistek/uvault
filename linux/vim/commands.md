@@ -2,6 +2,8 @@
 
 ## Basic
 
+[Reference](https://missing.csail.mit.edu/2020/editors/) 
+
 ### Normal Mode
 k - move up
 j - move down
@@ -45,6 +47,9 @@ In general, `<number><command>` will execute that command that many times:
 `yi shift + {` yank up to matching }
 
 `ctrl + ^` - jump between open files
+
+**Indenting:**
+Start at the first line you want to indent, then press > and type the number of lines you want to indent and press > again (for 10 lines you'd press >10>) To un-indent you'd just use < instead of > (<10<)
 
 ## Visual Line Mode 
 Highlight line by line (highlight lines)

@@ -88,6 +88,15 @@ Move between tabs:
 :blast
 ```
 
+### Go Plugin
+[vim-go](https://github.com/fatih/vim-go)
+
+```
+Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
+```
+
+After running plug install run ``:GoInstallBinaries``
+
 ### Open terminal inside neovim
 :sp term://zsh
 

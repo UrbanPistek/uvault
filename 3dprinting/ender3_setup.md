@@ -84,3 +84,4 @@ Tool Holder - [https://www.thingiverse.com/thing:387...](https://www.youtube.com
 
 Pi Cam Mount: https://www.thingiverse.com/thing:3586443
 
+Filament Guide: https://www.thingiverse.com/thing:3129612
