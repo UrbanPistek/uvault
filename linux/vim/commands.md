@@ -86,6 +86,8 @@ command mode - :
 
 `:e <path to file>` - find and open file
 `:bd` - close currently open file
+`:bn` - go to next open file
+`:bp` - go to previous open file
 
 `:%s/foo/bar/g`
 Find each occurrence of 'foo' (in all lines), and replace it with 'bar'.

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "linux/vim/neovim.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/vim/neovim.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,12 +89,12 @@
   },
   "active": "f0a08971e1fd8d53",
   "lastOpenFiles": [
+    "programming/software/rust.md",
     "linux/vim/commands.md",
+    "linux/vim/neovim.md",
     "programming/software/golang.md",
     "3dprinting/ender3_setup.md",
     "3dprinting/parts_list.md",
-    "programming/software/rust.md",
-    "linux/vim/neovim.md",
     "linux/ubuntu/packages.md",
     "README.md",
     "programming/machine_learning/computer_vision.md",
