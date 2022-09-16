@@ -5,6 +5,9 @@ Notes taken in markdown format and used with Obsidian.
 ## Directory Overview
 
 ```
+├── 3dprinting
+│   ├── ender3_setup.md
+│   └── parts_list.md
 ├── articles
 ├── linux
 │   ├── ubuntu
@@ -28,7 +31,9 @@ Notes taken in markdown format and used with Obsidian.
 │   │   ├── concepts.md
 │   │   └── overview.md
 │   └── software
-│       └── questions.md
+│       ├── golang.md
+│       ├── questions.md
+│       └── rust.md
 └── README.md
 
 ```

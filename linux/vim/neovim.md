@@ -62,6 +62,8 @@ Select python interperter:
 `:CocCommand`
 `python.setInterperter`
 
+[Support Languages](https://github.com/neoclide/coc.nvim/wiki/Language-servers#supported-features)
+
 #### Airline Plugin
 Install powerline fonts
 ```
