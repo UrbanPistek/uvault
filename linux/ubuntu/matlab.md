@@ -29,6 +29,14 @@ sudo apt install libcanberra-gtk-module
 sudo ln -s /usr/lib/x86_64-linux-gnu/gtk-2.0/modules/libcanberra-gtk-module.so /usr/lib/libcanberra-gtk-module.so
 ```
 
+### Add Additional Matlab Support
+
+Create application icon and other support. 
+```
+sudo apt-get install matlab-support
+```
+
+
 ### Resources
 * https://www.mathworks.com/matlabcentral/answers/1459909-installer-hang-when-installing-matlab-r2021b-as-root-on-ubuntu-20-04
 * https://www.mathworks.com/matlabcentral/answers/472134-gtk-message-10-32-31-466-failed-to-load-module-canberra-gtk-module
