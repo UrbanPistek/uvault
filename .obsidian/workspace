@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "linux/ubuntu/packages.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/ubuntu/packages.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "f0a08971e1fd8d53",
   "lastOpenFiles": [
+    "programming/software/rust.md",
+    "linux/vim/commands.md",
+    "linux/vim/neovim.md",
+    "programming/software/golang.md",
+    "3dprinting/ender3_setup.md",
+    "3dprinting/parts_list.md",
     "linux/ubuntu/packages.md",
-    "programming/embedded/questions.md",
-    "programming/embedded/programming.md",
-    "programming/embedded/overview.md",
-    "programming/embedded/concepts.md",
-    "programming/embedded/hardware.md",
+    "README.md",
     "programming/machine_learning/computer_vision.md",
-    "programming/machine_learning/concepts.md",
-    "programming/machine_learning/overview.md",
-    "programming/interview_prep/qualcomm_fw/algo_c.md"
+    "programming/embedded/questions.md"
   ]
 }

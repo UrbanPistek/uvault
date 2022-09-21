@@ -58,6 +58,12 @@ For python:
 pip3 install jedi
 ```
 
+Select python interperter:
+`:CocCommand`
+`python.setInterperter`
+
+[Support Languages](https://github.com/neoclide/coc.nvim/wiki/Language-servers#supported-features)
+
 #### Airline Plugin
 Install powerline fonts
 ```
@@ -83,6 +89,15 @@ Move between tabs:
 :bfirst
 :blast
 ```
+
+### Go Plugin
+[vim-go](https://github.com/fatih/vim-go)
+
+```
+Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
+```
+
+After running plug install run ``:GoInstallBinaries``
 
 ### Open terminal inside neovim
 :sp term://zsh

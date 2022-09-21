@@ -2,6 +2,8 @@
 
 ## Basic
 
+[Reference](https://missing.csail.mit.edu/2020/editors/) 
+
 ### Normal Mode
 k - move up
 j - move down
@@ -46,6 +48,9 @@ In general, `<number><command>` will execute that command that many times:
 
 `ctrl + ^` - jump between open files
 
+**Indenting:**
+Start at the first line you want to indent, then press > and type the number of lines you want to indent and press > again (for 10 lines you'd press >10>) To un-indent you'd just use < instead of > (<10<)
+
 ## Visual Line Mode 
 Highlight line by line (highlight lines)
 
@@ -53,6 +58,8 @@ Visual Line Mode - shift + v
 y - yank highlighted
 d - delete highlighted 
 p - paste highlighted
+
+(shift + .) - tab all selected lines
 
 ### Visual Mode
 Highlight as you navigate (highlight words)
@@ -79,5 +86,12 @@ command mode - :
 
 `:e <path to file>` - find and open file
 `:bd` - close currently open file
- 
+`:bn` - go to next open file
+`:bp` - go to previous open file
+
+`:%s/foo/bar/g`
+Find each occurrence of 'foo' (in all lines), and replace it with 'bar'.
+`:%s/foo/bar/gc`
+Change each 'foo' to 'bar', but ask for confirmation first.
+
 ### Notes

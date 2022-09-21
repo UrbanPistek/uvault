@@ -1,4 +1,8 @@
 # Packages
+## Install Debian Packages 
+```
+sudo dpkg -i package_file.deb
+```
 
 #### NodeJs
 ```
