@@ -83,6 +83,7 @@ Escape insert mode - esc, crtl + c, ctrl + [
 command mode - :
 / - search mode (type what to search for), forward hop through results using `n`, backword hop through results using `shift + n`
 `*` - search fo current word highlighted
+`:noh` - clear last search results
 
 `:e <path to file>` - find and open file
 `:bd` - close currently open file
