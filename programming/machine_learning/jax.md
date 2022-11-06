@@ -42,3 +42,10 @@ python -m ipykernel install --user --name=<environment_name>
 ```
 
 After this step you should be able to select the conda environment as your python interperter.
+
+## Resources
+- https://jax.readthedocs.io/en/latest/notebooks/neural_network_with_tfds_data.html
+- https://teddykoker.com/2022/04/learning-to-learn-jax/
+- https://github.com/deepmind/optax
+- https://optax.readthedocs.io/en/latest/optax-101.html
+- https://roberttlange.github.io/posts/2020/03/blog-post-10/
