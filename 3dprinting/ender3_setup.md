@@ -63,6 +63,9 @@ OctoPi Plugins: https://all3dp.com/2/must-have-octoprint-plugins/
 ## Print Settings
 https://all3dp.com/2/ender-3-cura-settings-best-ender-3-cura-profile/
 
+## Self Leveling 
+https://all3dp.com/2/ender-3-auto-level-best-options/
+
 ## Upgrades
 
 Bed Knobs - [https://www.thingiverse.com/thing:423...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWY3V3lzSkxTc0RyV3A0d2lQQXNCYThZVlBsUXxBQ3Jtc0ttdk5FWVM1WHRRM2xyeU5rWUhzQ3NuelpmeWNEelNPOGpsMHVPTUpZc2JwcWI5b2dJd1VNR09TRC16cDVjaXZvR0ZGVXlGNTRNUzJMYXRYSnpjc2ZfQklWLTl5T25oOUh4V0lubmdLZDNGdTFoeFNJdw&q=https%3A%2F%2Fwww.thingiverse.com%2Fthing%3A4230695&v=R8CsqU3ijRc) 
