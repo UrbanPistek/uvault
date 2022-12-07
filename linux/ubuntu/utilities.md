@@ -21,3 +21,9 @@ glmark2
 
 ## Ubuntu on a VM
 https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview
+
+## Bluetooth Configuration
+See file:
+```
+nvim /etc/bluetooth/main.conf
+```
