@@ -33,6 +33,11 @@ Install plugins in neovim with:
 :PlugInstall
 ```
 
+To uninstall, remove the line then run:
+```
+:PlugClean
+```
+
 #### Tagbar Plugin
 Error:
 ```
@@ -64,6 +69,19 @@ Select python interperter:
 
 [Support Languages](https://github.com/neoclide/coc.nvim/wiki/Language-servers#supported-features)
 
+To Browse from suggestion box:
+
+```
+<Ctrl - p>
+<Ctrl - n>
+```
+
+To Confirm selection
+
+```
+<Ctrl - y>  
+```
+
 #### Airline Plugin
 Install powerline fonts
 ```
@@ -91,16 +109,18 @@ Move between tabs:
 ```
 
 ### Go Plugin
-[vim-go](https://github.com/fatih/vim-go)
-
+[coc-go](https://github.com/josa42/coc-go)
 ```
-Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
+:CocInstall coc-go
 ```
-
-After running plug install run ``:GoInstallBinaries``
 
 ### Open terminal inside neovim
 :sp term://zsh
 
 Use `i` to write commands 
 Write `exit` to close the terminal
+
+### Rust Plugin
+[rust-analyzer](https://rust-analyzer.github.io/)
+[For Neovim](https://rust-analyzer.github.io/manual.html#vimneovim): Use Coc: `:CocInstall coc-rust-analyzer`
+[Langauge Client](https://github.com/autozimu/LanguageClient-neovim)
