@@ -59,6 +59,7 @@ Install language specific module
 ```
 
 For python:
+(Note: If running in a virtual environment will need to install it there as well)
 ```
 pip3 install jedi
 ```

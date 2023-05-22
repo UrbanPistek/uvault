@@ -2,6 +2,7 @@
 Rust book - https://doc.rust-lang.org/book/ch01-01-installation.htm
 Operating system in rust - https://www.redox-os.org/
 [Practice](https://exercism.org/tracks/rust)
+Benchmarking: [Hyperfine](https://www.linode.com/docs/guides/installing-and-using-hyperfine-on-linux/)
 
 #### Build: 
 `rustc <name>.rs`
@@ -131,3 +132,7 @@ fn do_something() -> i32{
 }
 ```
 A function will return the last expression implicitly if no return is specified. 
+
+# Libraries
+https://github.com/TheAlgorithms/Rust
+https://github.com/tensorflow/rust

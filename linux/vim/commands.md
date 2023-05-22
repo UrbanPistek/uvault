@@ -59,7 +59,8 @@ y - yank highlighted
 d - delete highlighted 
 p - paste highlighted
 
-(shift + .) - tab all selected lines
+(shift + >) - tab all selected lines
+(shift + <) - tab all selected lines
 
 ### Visual Mode
 Highlight as you navigate (highlight words)

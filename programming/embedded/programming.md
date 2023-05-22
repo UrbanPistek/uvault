@@ -169,7 +169,7 @@ printf("%d\n", *ptr); // Prints array[2]
 Pointer assigned to a memory location that is no longer valid:
 ```c
 void foo(int *ptr){
-  val = 10; 
+  int val = 10; 
   ptr = &val;
 }
 ```

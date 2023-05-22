@@ -4,3 +4,4 @@
 
 # AI
 [ChatGPT](https://chat.openai.com/chat)
+[Synthetic Data with ChatGPT](https://www.nvidia.com/en-us/launchpad/ai/data-generator-for-tabular-data/?ncid=pa-so-godi-287805-vt09#cid=ix06_pa-so-godi_en-us)

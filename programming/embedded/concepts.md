@@ -42,11 +42,13 @@ Endianness is the order in which bytes are stored in memory.
 Value: `0x12345678`
 
 **Little Endian**: Least significant byte is stored first.
+
 Address| 0x1 | 0x2 | 0x3 | 0x4
 ---|---|---|---|---
 Byte| 0x78 | 0x56 | 0x34 | 0x12
 
 **Big Endian**: Most significant byte is stored first.
+
 Address| 0x1 | 0x2 | 0x3 | 0x4
 ---|---|---|---|---
 Byte| 0x12 | 0x34 | 0x56 | 0x78
