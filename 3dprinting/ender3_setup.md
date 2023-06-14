@@ -60,6 +60,9 @@ OctoPi Plugins: https://all3dp.com/2/must-have-octoprint-plugins/
 ]
 ```
 
+Using Docker: 
+https://hub.docker.com/r/octoprint/octoprint
+
 ## Print Settings
 https://all3dp.com/2/ender-3-cura-settings-best-ender-3-cura-profile/
 
