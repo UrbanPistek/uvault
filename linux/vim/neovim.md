@@ -125,3 +125,27 @@ Write `exit` to close the terminal
 [rust-analyzer](https://rust-analyzer.github.io/)
 [For Neovim](https://rust-analyzer.github.io/manual.html#vimneovim): Use Coc: `:CocInstall coc-rust-analyzer`
 [Langauge Client](https://github.com/autozimu/LanguageClient-neovim)
+
+# NvChad Setup
+
+[NvChad](Get latest neovim: `sudo snap install nvim --classic`)
+Get latest neovim: `sudo snap install nvim --classic`
+
+Set theme: space + t + h
+Check Syntax Highlighting TSInstallInfo
+File tree ctrl + n
+m - mark a file
+a - create a new file
+c , p  - copy, paste
+r - rename
+Search files - space + f + f
+Cheatsheet  - space + c + h
+Open new windows - :vsp or sp
+Move around - ctrl + h / j / k / l
+Cycle buffers  - tab
+Close current buffer - space + x
+Open cli - space + h (horizontal) , space + v (vertical)
+Customize - ~/.config/nvim/lua/custom/
+
+[Youtube for NvChad](https://www.youtube.com/watch?v=Mtgo-nP_r8Y)
+[Copilot for Neovim](https://github.com/github/copilot.vim)
