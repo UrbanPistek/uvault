@@ -64,3 +64,7 @@ Make executetable & move to a different location, add icon to your applications
 ```
 sudo cp /home/yourusername/YourApp.desktop /usr/share/applications/
 ```
+
+# Proton VPN
+
+[Source](https://protonvpn.com/support/official-ubuntu-vpn-setup/)
